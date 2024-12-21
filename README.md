@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Montesdioca Rodrigues</h1>
 <h3 align="center">a passionate Systems Analysis and Development enthusiast on a quest to decode the intricacies of technology</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** with **Docker** and **Redis**
 
-- 💬 Ask me about **COBOL**
+- 💬 Ask me about **COBOL** and **Python**
 
 - 📫 How to reach me **gabriel.m.rodrigues.profissional@gmail.com**
 
